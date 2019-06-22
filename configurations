@@ -1,3 +1,4 @@
 1.vbox上配置openwrt
 2.raspberry pi上配置openwrt
 3.vbox下img文件的转换（VBoxMange&VBox-img)
+命令行：VBoxMange convertdd file.img file.vdi(VBoxMange,file.img,file.vdi都在当前目录。）
